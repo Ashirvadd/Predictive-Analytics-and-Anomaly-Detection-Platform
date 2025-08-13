@@ -46,5 +46,3 @@ A research-grade AI system that integrates advanced **time series forecasting** 
 - **Generality**: Easily adaptable to multiple domains beyond the original dataset.
 
 ---
-
-## 📂 Repository Structure
