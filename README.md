@@ -3,6 +3,12 @@
 A research-grade AI system that integrates advanced **time series forecasting** with an **ensemble anomaly detection framework** and a **domain-specific large language model** for human-readable anomaly explanations. This project leverages state-of-the-art deep learning architectures, hyperparameter optimization, and efficient deployment techniques to deliver sub-second inference and high accuracy.
 
 ---
+<img width="963" height="544" alt="Image" src="https://github.com/user-attachments/assets/6f204a88-5dd1-4a81-a29e-ed6c64676301" />
+<img width="1038" height="704" alt="Image" src="https://github.com/user-attachments/assets/c911ebb7-a2f8-46be-b940-60c62d129b55" />
+<img width="1752" height="736" alt="Image" src="https://github.com/user-attachments/assets/57114726-e8df-4ea0-a891-38f52b07bfa0" />
+<img width="1799" height="629" alt="Image" src="https://github.com/user-attachments/assets/d2129a60-f8d2-455f-9d68-21c4daa5caed" />
+<img width="752" height="464" alt="Image" src="https://github.com/user-attachments/assets/7409f93c-1663-4365-ae6a-f56ac5635483" />
+<img width="729" height="499" alt="Image" src="https://github.com/user-attachments/assets/20c1f29f-ec74-4598-9d05-f81e0586a919" />
 
 ## 🚀 Features
 
